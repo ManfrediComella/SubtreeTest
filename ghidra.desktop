@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Ghidra
+Version=10.1.5
+Type=Application
+Exec=/home/sieg/sec-tools/ghidra_10.1.5_PUBLIC/ghidraRun
+Icon=/home/sieg/sec-tools/ghidra_10.1.5_PUBLIC/support/ghidra_icon.png
+Comment=Ghidra Software Reverse Engineering Suite
+Terminal=false
